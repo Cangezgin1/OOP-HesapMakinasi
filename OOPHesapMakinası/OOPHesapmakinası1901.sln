@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPHesapmakinası1901", "OOPHesapmakinası1901\OOPHesapmakinası1901.csproj", "{F05DD8E7-FCF7-4C10-9423-A5987E451F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F05DD8E7-FCF7-4C10-9423-A5987E451F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05DD8E7-FCF7-4C10-9423-A5987E451F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05DD8E7-FCF7-4C10-9423-A5987E451F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05DD8E7-FCF7-4C10-9423-A5987E451F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EC933EF-2D7E-42EC-8872-FBAC42F024EF}
+	EndGlobalSection
+EndGlobal
